@@ -1,4 +1,24 @@
-[
+[  
+    [
+        "Easy thing to do in the lab",
+        "Hard thing to do in the lab"
+    ], 
+     [
+        "Good historical period to be born to",
+        "Bad historical period to be born to"
+    ], 
+     [
+        "Nice lab enviroment",
+        "Toxic lab environment"
+    ], 
+    [
+        "Gay stereotype",
+        "Lesbian stereotype"
+    ],
+    [
+        "Italian culture",
+        "Australian culture"
+    ],
     [
         "Bad Company",
         "Good Company"
